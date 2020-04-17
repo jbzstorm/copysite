@@ -1,4 +1,11 @@
 .navbar {
-    color: cornsilk;
     background-color: black;
+}
+.navbar-dark .navbar-brand {
+    color: white
+}
+
+.btn-outline-success {
+    color: white;
+    border-color: white;
 }
