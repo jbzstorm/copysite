@@ -5,7 +5,12 @@
     color: white
 }
 
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+
 .btn-outline-success {
     color: white;
     border-color: white;
 }
+
