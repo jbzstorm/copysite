@@ -39,6 +39,16 @@ button, input, optgroup, select, textarea {
 img {
     vertical-align: middle;
     max-width: 100%;
-    height：auto;
     border-style: none;
+}
+
+a.link1 {
+    font-style: italic;
+    text-decoration: underline;
+    color: black;
+    background-color: transparent;
+}
+
+img.mid {
+    max-width: 100%;
 }
