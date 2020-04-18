@@ -52,3 +52,11 @@ a.link1 {
 img.mid {
     max-width: 100%;
 }
+
+.card {
+    border: 0px;
+}
+
+.card-link {
+    text-decoration: underline;
+}
