@@ -19,6 +19,7 @@
     border-color: black;
     background-color: white;
     border-radius: 20px;
+    font-weight: bold;
 }
 
 button, input, optgroup, select, textarea {
@@ -26,8 +27,9 @@ button, input, optgroup, select, textarea {
 }
 
 .btn-primary {
-    color: #fff;
-    background-color:black;
+    font-weight: bold;
+    color: black;
+    background-color:white;
     border-color: black;
 }
 
