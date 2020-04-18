@@ -62,3 +62,8 @@ img.mid {
 .card-link {
     text-decoration: underline;
 }
+
+.end {
+    background-color: black;
+    color:white;
+}
